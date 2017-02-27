@@ -2,7 +2,7 @@
 ## findSQLi.py
 ## Small tool for finding SQL Injections on a list of URLs by adding a single quote to all parameters
 ## Author: LokiSec
-## Twitter: #LokiSec
+## Twitter: #Scherer_LokiSec
 ## Version 0.0.1
 ## Usage findSQLi.py [options]
 import time, urllib2, optparse
